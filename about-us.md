@@ -10,7 +10,7 @@ T-SEDA is an extensive, open resource pack that was designed to support practiti
 
 CEDiR is a research group within the Faculty of Education at the University of Cambridge that draws together a range of Faculty colleagues who are interested in educational dialogue and aim to create and share high quality research. You can subscribe to the CEDiR newsletter at the bottom of the [CEDiR webpage](https://www.educ.cam.ac.uk/research/groups/cedir/).
 
-Contact details:
+## Contact details:
 
 To get in touch, please email me at: meb78@cam.ac.uk
 
