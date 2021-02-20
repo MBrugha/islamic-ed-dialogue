@@ -2,7 +2,8 @@
 
 <iframe width="560" height="315" src="https://youtu.be/ivyu3PyVYE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Downloadable video transcript uploaded here
+
+Download the video transcript here.
 
 Links mentioned in the video:
 
