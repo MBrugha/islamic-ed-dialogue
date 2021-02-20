@@ -15,7 +15,7 @@ The course has been created using a template from P2P University, which strives 
 
 * Follow [this link](https://www.edudialogue.org/forum/dialogue-mooc-on-dialogue/) and click on ‘Create Account’.
 
-![alt](/img/mooc_screenshot1.png)
+![alt](https://mbrugha.github.io/course-in-a-box/img/mooc_screenshot1.png)
 
 * Enter in any username that you would like to use on the forum.
 * Enter your email address.
