@@ -36,12 +36,12 @@ The course has been created using a template from P2P University, which strives 
 
 ![alt](/img/mooc_screenshot3.png)
 
-* Click on ‘MOOC on Educational Dialogue’ and you will see three different channels (or ‘topics’): Introductions!, News and course updates, and General.
+* Click on ‘MOOC on Educational Dialogue’ and you will see three different channels (or ‘topics’): (1) Introductions!, (2) News and course updates, and (3) General. Eventually every week will also have a channel, which you'll see on this page.
 
 ![alt](/img/mooc_screenshot4.png)
 
-* The first task for you is to post an introduction – instructions for this is included at the top of the channel.
-* To make a post, go into the channel and type your post in the ‘Leave a reply’ box and click ‘Add reply’ on the bottom right corner of the box.
+* The first task for you is to post an introduction – instructions for this are included at the top of the channel.
+* To make a post, go into the channel and type your post in the ‘Leave a reply’ box and click ‘Add reply’ on the bottom right corner of the box to post it.
 
 ![alt](/img/mooc_screenshot5.png)
 
