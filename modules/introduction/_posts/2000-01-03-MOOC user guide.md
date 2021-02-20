@@ -19,10 +19,10 @@ The course has been created using a template from P2P University, which strives 
 
 * Enter in any username that you would like to use on the forum.
 * Enter your email address.
-* Check the box to confirm you’re not a robot. 🤖 :robot:
+* Check the box to confirm you’re not a robot. 🤖
 * Check the boxes to confirm you have read and agree to the forum privacy policy and the forum rules, as well the box to say that you agree to receive an email confirmation with a link to set a new password.
 
-![alt](/img/mooc_screenshot2.png)
+![alt](https://mbrugha.github.io/course-in-a-box/img/mooc_screenshot2.png)
 
 * Check your email for confirmation. The email should give you your username and a link for you to follow to set a password. Follow this link and reset your password but **please note that you will still not be able to see the course forum until your email address has been manually confirmed by myself** (I will check sign-ups at the beginning and end of every day – so please be patient!).
 * Once I have confirmed your email address I will email you with the link to the course forum. Apologies for the lengthy process, but the intention is to keep this a private forum and safe space to discuss your progress and inquiries!
@@ -34,17 +34,17 @@ The course has been created using a template from P2P University, which strives 
 * Once you have been approved, follow the link in my email and sign-in using your details.
 * You should see this page after you’ve signed in:
 
-![alt](/img/mooc_screenshot3.png)
+![alt](https://mbrugha.github.io/course-in-a-box/img/mooc_screenshot3.png)
 
 * Click on ‘MOOC on Educational Dialogue’ and you will see three different channels (or ‘topics’): (1) Introductions!, (2) News and course updates, and (3) General. Eventually every week will also have a channel, which you'll see on this page.
 
-![alt](/img/mooc_screenshot4.png)
+![alt](https://mbrugha.github.io/course-in-a-box/img/mooc_screenshot4.png)
 
 * The first task for you is to post an introduction – instructions for this are included at the top of the channel.
 * To make a post, go into the channel and type your post in the ‘Leave a reply’ box and click ‘Add reply’ on the bottom right corner of the box to post it.
 
-![alt](/img/mooc_screenshot5.png)
+![alt](https://mbrugha.github.io/course-in-a-box/img/mooc_screenshot5.png)
 
 * To reply to someone else’s post, click on the ‘Reply’ button directly underneath their post. This will bring up a new box for you to type your reply into and then click ‘Reply’ on the bottom right corner of the box to post it.
 
-![alt](/img/mooc_screenshot6.png)
+![alt](https://mbrugha.github.io/course-in-a-box/img/mooc_screenshot6.png)
