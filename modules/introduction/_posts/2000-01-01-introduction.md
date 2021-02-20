@@ -1,3 +1,10 @@
 ## Welcome to the course!
 
-There are two strands to this course, which will have clear signposting throughout. The first strand of the course is for facilitators and the second strand is for inquirers. **Facilitators** are individuals who will already have some familiarity with educational dialogue and wish to take their knowledge a step further to support their colleagues in developing their dialogic practices as well. **Inquirers** are individuals who want to learn more about educational dialogue and conduct their own reflective inquiry into their practice but are not interested in guiding their colleagues through the same process at this point in time. Eventually another course will be developed on this same platform titled ‘Fundamentals of Educational Dialogue’, which will serve as a building block for the facilitator’s course and will be for inquirer participants. Because this does not yet exist, the material has been woven into the facilitator’s course. The course is open and unpaid and you will receive a certificate of completion from the [T-SEDA group](https://www.educ.cam.ac.uk/research/programmes/tseda/) at the University of Cambridge at the end if you completed all 6 weeks of activities.
+Insert video here
+
+* [About us](https://mbrugha.github.io/course-in-a-box/about-us/)
+* The Teacher Scheme for Educational Dialogue Analysis ([T-SEDA](https://www.educ.cam.ac.uk/research/programmes/tseda/))
+* Pre-course [consent form](https://forms.gle/yKGL6D9xEh6m1eom7) for use of data for facilitators to fill out
+* Pre-course [survey and consent form](https://forms.gle/yHmZD6UaA4wkwzJF7) for inquirers to fill out (including the self-audit)
+* [Discussion forum](https://www.edudialogue.org/forum/dialogue-mooc-on-dialogue/)
+* [MOOC user guide](https://mbrugha.github.io/course-in-a-box/modules/introduction/MOOC-user-guide/)
