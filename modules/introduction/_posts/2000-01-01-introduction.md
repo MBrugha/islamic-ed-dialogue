@@ -4,6 +4,8 @@
 " target="_blank"><img src="http://img.youtube.com/vi/ivyu3PyVYE0/0.jpg" 
 alt="Introduction to the MOOC" width="240" height="180" border="10" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ivyu3PyVYE0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Download the video transcript here.
 
 Links mentioned in the video:
