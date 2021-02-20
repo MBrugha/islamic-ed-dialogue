@@ -13,3 +13,4 @@ This is a free MOOC about educational dialogue. There are six weeks of modules t
   * **[Week 5:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-5/)** Conducting an inquiry
   * **[Week 6:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-6/)** Continuing the role of facilitator and your inquiries
 * **[Community discussion forum](https://www.edudialogue.org/forum/?foro=signin#038;redirect_to=https%3A%2F%2Fwww.edudialogue.org%2Fforum%2Fdialogue-mooc-on-dialogue%2F)** - Join the discussion!
+* **[About us](https://mbrugha.github.io/course-in-a-box/about-us/)** - Learn more about the course and contact the course creator
