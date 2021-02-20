@@ -2,6 +2,10 @@
 
 Insert video here
 
+Downloadable video transcript uploaded here
+
+Links mentioned in the video:
+
 * [About us](https://mbrugha.github.io/course-in-a-box/about-us/)
 * The Teacher Scheme for Educational Dialogue Analysis ([T-SEDA](https://www.educ.cam.ac.uk/research/programmes/tseda/))
 * Pre-course [consent form](https://forms.gle/yKGL6D9xEh6m1eom7) for use of data for facilitators to fill out
