@@ -3,7 +3,9 @@ layout: index
 published: true
 ---
 
-## A warm welcome to Educational dialogue: Developing your practice  
+## A warm welcome to Educational dialogue: Developing your practice
+
+<br/><br/>
 
 This is a free MOOC about educational dialogue. There are six weeks of modules that walk through conducting an inquiry into your practice as well as supporting your colleagues:
 * **[Introduction to the course](https://mbrugha.github.io/course-in-a-box/modules/introduction/introduction/)** - Learn more about the structure of the course and what to expect over the 6 modules
@@ -16,6 +18,8 @@ This is a free MOOC about educational dialogue. There are six weeks of modules t
   * **[Week 6:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-6/)** Continuing the role of facilitator and your inquiries
 * **[Community discussion forum](https://www.edudialogue.org/forum/?foro=signin#038;redirect_to=https%3A%2F%2Fwww.edudialogue.org%2Fforum%2Fdialogue-mooc-on-dialogue%2F)** - Join the discussion!
 * **[About us](https://mbrugha.github.io/course-in-a-box/about-us/)** - Learn more about the course and contact the course creator  
+
+<br/><br/>
 
 ## News and course updates!
 Course-related news and updates will be posted here.
