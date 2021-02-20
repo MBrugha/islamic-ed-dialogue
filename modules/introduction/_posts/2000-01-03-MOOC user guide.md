@@ -19,7 +19,7 @@ The course has been created using a template from P2P University, which strives 
 
 * Enter in any username that you would like to use on the forum.
 * Enter your email address.
-* Check the box to confirm you’re not a robot. :robot:
+* Check the box to confirm you’re not a robot. 🤖 :robot:
 * Check the boxes to confirm you have read and agree to the forum privacy policy and the forum rules, as well the box to say that you agree to receive an email confirmation with a link to set a new password.
 
 ![alt](/img/mooc_screenshot2.png)
