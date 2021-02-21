@@ -2,7 +2,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ivyu3PyVYE0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Download the video transcript [here](https://mbrugha.github.io/course-in-a-box/img/MOOC_ed dialogue_transcript of intro video.pdf).
+Download the video transcript [here](https://mbrugha.github.io/course-in-a-box/img/Video_intro_transcript.pdf).
 
 Links mentioned in the video:
 
