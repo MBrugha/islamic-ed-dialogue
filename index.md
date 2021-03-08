@@ -19,4 +19,5 @@ A warm welcome to Educational dialogue: Developing your practice! This is a free
 ## News and course updates!
 Course-related news and updates will be posted here.
 
-Change of live webinar: this will now take place on Saturday, March 20th at 3pm GMT.
+* New video available on [edudialogue.org](edudialogue.org) about multimodal educational dialogue and supporting dialogue with digital technology! See [here](https://www.edudialogue.org/resources/multimodal-educational-dialogue/) for the video.
+* Change of live webinar: this will now take place on Saturday, March 20th at 3pm GMT.
