@@ -9,7 +9,7 @@ A warm welcome to Educational dialogue: Developing your practice! This is a free
   * **[Week 1:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-1/)** The role of the facilitator
   * **[Week 2:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-2/)** Revisiting the theories and impact of educational dialogue
   * **[Week 3:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-3/)** Self-audits and reflective inquiry
-  * **[Week 4:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-4/)** Identifying key dialogic features in the classroom
+  * **[Week 4:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-4/)** Identifying key dialogic features in your setting
   * **[Week 5:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-5/)** Conducting an inquiry
   * **[Week 6:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-6/)** Continuing the role of facilitator and your inquiries
 * **[Community discussion forum](https://www.edudialogue.org/forum/?foro=signin#038;redirect_to=https%3A%2F%2Fwww.edudialogue.org%2Fforum%2Fdialogue-mooc-on-dialogue%2F)** - Join the discussion!
