@@ -20,10 +20,3 @@ A warm welcome to Educational dialogue: Developing your practice! This is a free
 Course-related news and updates will be posted here.
 
 * New video available on [edudialogue.org](edudialogue.org) about multimodal educational dialogue and supporting dialogue with digital technology! See [here](https://www.edudialogue.org/resources/multimodal-educational-dialogue/) for the video.
-* Live webinar looking at coding on Saturday, 20 March from 3pm to 3:45pm GMT on Zoom. Follow the link below to join:
-
-Join Zoom Meeting
-https://us05web.zoom.us/j/6846695832?pwd=emxVSmpRYmxFTlMyZnYraE9xMFlWUT09
-
-Meeting ID: 684 669 5832
-Passcode: y8Zmn7
