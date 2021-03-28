@@ -12,7 +12,7 @@ A warm welcome to Educational dialogue: Developing your practice! This is a free
   * **[Week 4:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-4/)** Identifying key dialogic features in your setting
   * **[Week 5:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-5/)** Conducting an inquiry
   * **[Week 6:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-6/)** Continuing the role of facilitator and your inquiries
-* **[Community discussion forum](https://www.edudialogue.org/forum/?foro=signin#038;redirect_to=https%3A%2F%2Fwww.edudialogue.org%2Fforum%2Fdialogue-mooc-on-dialogue%2F)** - Join the discussion!
+* **[Community discussion forum](https://www.edudialogue.org/community-forum/)** - Join the discussion!
 * **[About us](https://mbrugha.github.io/course-in-a-box/about-us/)** - Learn more about the course and contact the course creator  
 
 <br/><br/>
@@ -20,3 +20,5 @@ A warm welcome to Educational dialogue: Developing your practice! This is a free
 Course-related news and updates will be posted here.
 
 * New video available on [edudialogue.org](edudialogue.org) about multimodal educational dialogue and supporting dialogue with digital technology! See [here](https://www.edudialogue.org/resources/multimodal-educational-dialogue/) for the video.
+* The course contently currently available was developed for the February 2021 trial, which combines two strands: strand 1 for Facilitators and strand 2 for Inquirers. The content will be left on this site for anyone to take as a self-paced course series. 
+* There will be two more courses launched over the summer months on this same platform: one that will focus on the theory of educational dialogue, and one that will be the inquirer strand of the current course. The current course will then focus more centrally on facilitators. The next live trial of all of these courses will take place in autumn 2021. If you are interested in participating in one of the autumn 2021 trials, or if you would like to be kept updated on the new courses when they're all available as self-paced, please register your interest via [this google form](https://forms.gle/EyECzradmuEDiNi68) or contact Meaghan directly at meb78@cam.ac.uk.
