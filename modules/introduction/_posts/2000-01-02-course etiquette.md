@@ -12,7 +12,7 @@ Online courses can be difficult to navigate socially at times, so the following 
 * Use respectful language - criticism must be clear, constructive and well-meaning. Reading your post outloud before posting it might be a good way to check your tone. On this note, please don't use ALL CAPS - IT IS ALARMING TO READ and think about the way punctuation like exclamation marks can come across.
 * Please report anything that isn’t working - this is a new forum and may have bugs.
 
-Zoom etiquette: for the live components of the course, such as the welcome event and live coding webinar, we will use Zoom. Here are some tips on Zoom etiquette:
+Zoom etiquette for the live trials of the course: for the live components of the course, such as the welcome event and live coding webinar, we will use Zoom. Here are some tips on Zoom etiquette:
 * When you sign into Zoom, ensure that you turn your microphone off until you want to speak. If you want to speak, there is a hand-raise function on Zoom or you can physically raise your hand as well. 
 * Make sure that you are in a quiet space without distracting background noises (if possible).
 * Keep your video on as much as you can, although I recognise that's not always possible.
