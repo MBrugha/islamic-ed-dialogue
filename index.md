@@ -15,7 +15,7 @@ A warm welcome to Educational dialogue: Developing your practice! This is a free
 * **[Community discussion forum](https://www.edudialogue.org/community-forum/)** - Join the discussion!
 * **[About us](https://mbrugha.github.io/course-in-a-box/about-us/)** - Learn more about the course and contact the course creator  
 
-If you are taking this course as a self-paced series, please register using [this google form](https://docs.google.com/forms/d/1KvjTnqpQwO50MmuQVvDprVhPLfNH8zUYN77L7JPENfM/edit).
+If you are taking this course as a self-paced series, please register using [this google form](https://docs.google.com/forms/d/e/1FAIpQLScefMoRYzS14tsLl5ID6tRHMvfWW4V6Jrg8JDuRvVheTGcuXQ/viewform?usp=sf_link).
 
 <br/><br/>
 ## News and course updates!
