@@ -2,7 +2,7 @@
 
 This course is a free and open course to anyone who is interested in participating. It is expected that all participants will treat one another with respect.
 
-Online courses can be difficult to navigate socially at times, so the following guide is what is widely considered good etiquette to follow on the discussion forum:
+Online courses can be difficult to navigate socially at times, so the following guide is what is widely considered good etiquette to follow on the [discussion forum](https://www.edudialogue.org/forum/mooc-for-facilitators/):
 
 * Firstly, participate! This is a shared learning environment and your contributions matter - for maximum benefit to all course participants, ensure that you’re using and posting in the forum.
 * When you’re preparing your posts, review the requirements from the course page to ensure that your post is aligned with the expectation of the discussion topic and ensure that you're posting under the correct channel.
