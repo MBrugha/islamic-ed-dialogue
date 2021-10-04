@@ -3,9 +3,7 @@ layout: index
 published: true
 ---
 
-A warm welcome to Educational dialogue: Supporting your colleagues through facilitation.
-
-Who is this course for? This is a free MOOC designed for teachers and teacher educators in schools and tertiary institutions globally who have familiarity with educational dialogue and would like to support their colleagues in developing their dialogic practices.
+A warm welcome to Educational dialogue: Supporting your colleagues through facilitation! This is a free MOOC designed for teachers and teacher educators in schools and tertiary institutions globally who have familiarity with educational dialogue and would like to support their colleagues in developing their dialogic practices.
 
 There are six weeks of modules that aim to equip learners with the theory, methodologies, tools and resources to support other practitioners in developing their dialogic approaches:
 * **[Introduction to the course](https://mbrugha.github.io/course-in-a-box/modules/introduction/introduction/)** - Learn more about the structure of the course and what to expect over the 6 modules
