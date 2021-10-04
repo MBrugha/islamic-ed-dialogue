@@ -14,7 +14,7 @@ There are six weeks of modules that aim to equip learners with the theory, metho
   * **[Week 4:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-4/)** Conducting reflective inquiries
   * **[Week 5:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-5/)** Identifying key dialogic features in your setting
   * **[Week 6:](https://mbrugha.github.io/course-in-a-box/modules/the%20course%20modules/wk-6/)** Continuing the role of facilitator
-* **[Community discussion forum](https://www.edudialogue.org/forum/mooc-self-paced/)** - Join the discussion!
+* **[Community discussion forum](https://www.edudialogue.org/forum/mooc-for-facilitators/)** - Join the discussion!
 * **[About the course](https://mbrugha.github.io/course-in-a-box/about/)** - Learn more about the course and contact the course creator  
 
 Please register for the course using [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdVGqzG-GIDHSu8U08oDWFrMHdD8bd1ignlVQ5tUBtrw8dpPw/viewform?usp=sf_link) prior to starting any of the course materials.
