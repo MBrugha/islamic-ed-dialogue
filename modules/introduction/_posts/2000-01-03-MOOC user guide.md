@@ -8,12 +8,12 @@ The course has been created using a template from P2P University, which strives 
 
 [About the course](https://mbrugha.github.io/course-in-a-box/about/): This page offers more information about me as well as my contact details, should you have any questions, concerns, or technical difficulties.
 
-[Discussion forum](https://www.edudialogue.org/forum/mooc-self-paced/): This forum was built for you to discuss the weekly course materials, activities and for you to engage with one another about your experiences and challenges. There will be a different channel for each week. There will also be two other channels: (1) an introductions channel for you to post an introduction to yourself, and (2) a general channel for you to put any general comments or questions that might not fit within just one week’s channel.
+[Discussion forum](https://www.edudialogue.org/forum/mooc-for-facilitators/): This forum was built for you to discuss the weekly course materials, activities and for you to engage with one another about your experiences and challenges. There will be a different channel for each week. There will also be two other channels: (1) an [introductions channel](https://www.edudialogue.org/forum/mooc-for-facilitators/introductions-3/#post-263) for you to post an introduction to yourself, and (2) a [general channel](https://www.edudialogue.org/forum/mooc-for-facilitators/general-4/) for you to put any general comments or questions that might not fit within just one week’s channel.
 
 
 **_How to register on the discussion forum:_**
 
-* Follow [this link](https://www.edudialogue.org/forum/mooc-self-paced/) and click on ‘Create Account’.
+* Follow [this link](https://www.edudialogue.org/forum/mooc-for-facilitators/) and click on ‘Create Account’.
 
 ![alt](https://mbrugha.github.io/course-in-a-box/img/mooc_screenshot1.png)
 
@@ -34,7 +34,7 @@ The course has been created using a template from P2P University, which strives 
 
 ![alt](https://mbrugha.github.io/course-in-a-box/img/mooc_screenshot3.png)
 
-* Click on ‘Self-paced MOOC: Educational dialogue’ and you will see the different channels (or ‘topics’): (1) Introductions!, (2) General, and a channel to discuss each week's materials and activities.
+* Click on ‘Educational dialogue: Supporting your colleagues through facilitation’ and you will see the different channels (or ‘topics’ as they're called on the forum): (1) Introductions, (2) General, and a channel to discuss each week's materials and activities.
 
 ![alt](https://mbrugha.github.io/course-in-a-box/img/mooc_screenshot4.png)
 
