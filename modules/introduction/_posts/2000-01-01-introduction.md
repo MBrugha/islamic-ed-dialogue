@@ -4,7 +4,7 @@ The following video offers an introduction to the course structure and materials
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ezygcfPf0HI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Links to review:
+Links mentioned in the video:
 * [Registration and consent form](https://docs.google.com/forms/d/e/1FAIpQLSdVGqzG-GIDHSu8U08oDWFrMHdD8bd1ignlVQ5tUBtrw8dpPw/viewform?usp=sf_link)
 * [About the course](https://mbrugha.github.io/course-in-a-box/about/)
 * The Teacher Scheme for Educational Dialogue Analysis ([T-SEDA](https://www.educ.cam.ac.uk/research/programmes/tseda/))
