@@ -19,6 +19,8 @@ There are six weeks of modules that aim to equip learners with the theory, metho
 
 Please register for the course using [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdVGqzG-GIDHSu8U08oDWFrMHdD8bd1ignlVQ5tUBtrw8dpPw/viewform?usp=sf_link) prior to starting any of the course materials.
 
+Note that anonymous user analytics are collected and analysed for this website to better understand engagement with the site materials and pages. For further information regarding the data collection for the research study that this course is part of, please review the [introduction to the course](https://mbrugha.github.io/course-in-a-box/modules/introduction/introduction/).
+
 <br/><br/>
 ## News and course updates!
 
