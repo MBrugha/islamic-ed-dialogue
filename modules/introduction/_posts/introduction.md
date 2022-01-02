@@ -1,8 +1,20 @@
 ## Welcome to the course!
 
+This course is 6 weeks in length, and offers a new module and focus area each week:
+* Week 1: An introduction to educational dialogue
+* Week 2: Robin Alexander - Taking a dialogic stance
+* Week 3: Neil Mercer - Interthinking through exploratory talk
+* Week 4: Sara Hennessy - Visualising classroom dialogue through dialogic moves
+* Week 5: Rupert Wegerif - Opening up a dialogic space for reflection and agency
+* Week 6: Paulo Freire and Ramón Flecha - Transformative, holistic and decolonial approaches to dialogue
+
+Participants can expect to spend between 2 to 3 hours per week on course readings, activities and discussions. Participants will keep a reflective learning journal throughout the course. Course tasks and activities will support you in engaging in this reflective practice. While participants are able to complete the weekly tasks whenever is convenient for their schedules, it is expected that all tasks for the week will be completed by the Sunday night GMT each week.
+
+To receive a Certificate of Completion, participants will have to complete all weekly tasks and one short assignment.
+
 The following video offers an introduction to the course structure and materials:
 
-Video content to be inserted
+_Video content to be inserted_
 
 Links mentioned in the video: (can check this list after developing the video content)
 * [Registration and consent form](insert)
