@@ -3,17 +3,17 @@ layout: index
 published: true
 ---
 
-A warm welcome to our course, 'The fundamentals of educational dialogue'! This is a free MOOC designed for teachers and teacher educators in schools and tertiary institutions globally who are interested in learning more about educational dialogue.
+A warm welcome to our course, 'The fundamentals of educational dialogue'! This is a free course designed for teachers and teacher educators in schools and tertiary institutions globally who are interested in learning about the foundational theories behind educational dialogue. This course provides and introduction to these theories as well as a summary of related research findings and evidence that dialogue promotes student learning.
 
 There are six weeks of modules that aim to equip learners with the theory, methodologies, tools and resources:
 * **[Introduction to the course](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/introduction/introduction/)** - Learn more about the structure of the course and what to expect over the 6 modules
 * **[Course modules](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-1/)** -  Access the 6 weekly course modules
-  * **[Module 1:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-1/)** The role of the facilitator
-  * **[Module 2:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-2/)** Revisiting the theories and impact of educational dialogue
-  * **[Module 3:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-3/)** Assessing the needs in your setting
-  * **[Module 4:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/the%20course%20modules/wk-4/)** Conducting reflective inquiries
-  * **[Module 5:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/the%20course%20modules/wk-5/)** Identifying key dialogic features in your setting
-  * **[Module 6:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/the%20course%20modules/wk-6/)** Continuing the role of facilitator
+  * **[Module 1:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-1/)** An introduction to educational dialogue
+  * **[Module 2:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-2/)** Robin Alexander - Taking a dialogic stance
+  * **[Module 3:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-3/)** Neil Mercer - Interthinking through exploratory talk
+  * **[Module 4:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/the%20course%20modules/wk-4/)** Sara Hennessy - Visualising classroom dialogue through dialogic moves
+  * **[Module 5:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/the%20course%20modules/wk-5/)** Rupert Wegerif - Opening up a dialogic space for reflection and agency
+  * **[Module 6:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/the%20course%20modules/wk-6/)** Paulo Freire and Ramón Flecha - Transformative, holistic and decolonial approaches to dialogue
 * **[Community discussion forum](https://www.edudialogue.org/forum/)** - Join the discussion!
 * **[About the course](https://mbrugha.github.io/fundamentals-of-ed-dialogue/about/)** - Learn more about the course and contact the course creators  
 
